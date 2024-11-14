@@ -1,0 +1,26 @@
+#camera-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#camera {
+    width: 100%;
+    max-width: 400px;
+    border: 2px solid #2e8b57;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #2e8b57;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #1f6e41;
+}
